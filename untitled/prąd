@@ -1,0 +1,13 @@
+print("""    ________
+   |        |
+   |       _|_
+  _|_     |   |
+ ----- U  | R |
+   |      |___|
+   ---------|""")
+U = input("Podaj napiecie: ")
+U = int(U)
+R = input("Podaj opór: ")
+R = int(R)
+I = U/R
+print(I)
