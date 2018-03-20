@@ -14,7 +14,7 @@ print("Mnożenie:", number1*number2)
 if number2:
     print("Dzielenie:", number1/number2)
 else:
-print("Dzielenie: Nie dziel przez 0!")
+    print("Dzielenie: Nie dziel przez 0!")
 
 ##2
 # Kalkulator rozbudowany o możliwość wyboru działania, oraz o potęgowanie i modulo
@@ -95,7 +95,7 @@ MENU:
     if decision == "T" or decision == "t":
         continue
     else:
-break
+        break
 
 ##3
 # Zmodyfikowany Symulator trzylatka
@@ -197,5 +197,5 @@ elif win_numbers_counter == 2:
 elif win_numbers_counter == 3:
     print("\nZwycięstwo! Trafiono wszystkie 3 liczby!")
 else:
-print("\nCoś poszło nie tak!")
+    print("\nCoś poszło nie tak!")
 
