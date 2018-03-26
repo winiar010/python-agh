@@ -12,7 +12,7 @@ print("\nMam na myśli pewną liczbę z zakresu od 1 do 100.")
 print("Spróbuj ją odgadnąć w jak najmniejszej liczbie prób.\n")
 
 # ustaw wartości początkowe
-the_number = random.randint(1, 100)
+the_number = random.randint(1, 8)
 guess = int(input("Ta liczba to: "))
 tries = 1
 

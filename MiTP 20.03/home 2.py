@@ -1,4 +1,5 @@
 # Maksymalne obciążenie
+# repl.it sprawdź stronę
 
 import random
 
