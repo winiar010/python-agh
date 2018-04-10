@@ -34,4 +34,4 @@ while command:
     else:
         print("\nNiepoprawna komenda!")
 
-command = input("Co chcesz zrobić? ").lower()
+    command = input("Co chcesz zrobić? ").lower()
