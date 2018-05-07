@@ -7,3 +7,5 @@ def warunek():
 
 liczba = print("Wprowadź liczbę: ")
 liczba = int(liczba)
+
+#kartkówki 1,5p i 1p

@@ -1,8 +1,15 @@
 
 # Kreator postaci
-import random
+import random, pickle
 
-points = random.randint(40, 90)
+
+points = random.randint(30, 40)
+
+def odczyt():
+    f = open("zapis_postac.dat", "wb")
+    attributes = pickle.load(f)
+    print(attributes)
+    f.close()
 
 attributes = {
     "siła": 0,
@@ -42,3 +49,5 @@ while points:
 print("\nStatystyki:\n")
 for key in attributes.keys():
     print("%s: %d" % (key, attributes[key]))
+
+odczyt()
