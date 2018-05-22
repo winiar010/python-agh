@@ -11,7 +11,7 @@ def zapis():
 def odczyt():
     '''plik = open("postac.dat", "rb")
     try:
-        f = plik.read()
+        f = plik.read() 
     finally:
         plik.close()
     print (f)'''
