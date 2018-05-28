@@ -1,0 +1,27 @@
+                                   XX    XX  XX  XX    XX  XXXX
+                                   XXX  XXX  XX  XXX   XX  XX  XX
+                                   XX XX XX  XX  XX XX XX  XX  XX
+                                   XX    XX  XX  XX   XXX  XX  XX
+                                   XX    XX  XX  XX    XX  XXXX
+===================================================================================================
+       Witaj w grze MIND, dzieki ktorej nauczysz sie skutecznie zapamietywac informacje
+                               Na poczatek poznajmy sie :-). 
+
+                        Podaj swoje imie lub wybierz je z listy ponizej
+                             1. jestem nowy i chce podac swoje imie
+
+Za moment zaczniesz siebie ulepszac. Twoja zdolnosc do zapamietywania swiadczy o Twojej inteligencji i wartosci.
+Poswiec regularnie chwile, aby cwiczyc swoja zdolnosc do zapamietywania.
+
+Gra MIND bardzo Ci w tym pomoze. Jej zasady sa bardzo proste.
+Na ekranie zobaczysz zagadke graficzna i musisz znalezc jej rozwiazanie w jak najkrotszym czasie od momentu
+jej wyswietlenia na ekranie. Gdy juz ja rozwiazesz i zapamietasz rozwiazanie nacisnij dowolny klawisz, a nastepnie 
+wpisz rozwiazanie zagadki. 
+Twoim celem jest zapamietanie zagadki w jak najkrotszym czasie oraz wpisanie poprawnego rozwiazania.
+Poprawnosc odpowiedzi ma duzy wplyw na Twoj wynik. Za kazda pomylke Twoj czas zostanie wydluzony o 5 sekund.
+Jesli odpowiedz nie byla poprawna Twoja proba nie zostanie zaliczona.
+
+Zrozumiales zasady?
+Jestes gotowy?
+     - wybierz dowolny klawisz aby kontynowac
+     - wybierz Q jest chcesz zakonczyc

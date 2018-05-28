@@ -1,0 +1,18 @@
+$LLLLLLLLLGGRRRRRGGLLLLLLLLLLLGGLLLLLG
+Zagadka - Latwy labirynt
+OPIS:
+Znajdz najkrotsze wyjscie z labiryntu. X oznacza punkt startu. O oznacza wyjscie
+Okresl sekwencje ruchow (L-lewo,R-prawo,G-gora,D-dol) jaka nalezy wykonac, aby wyjsc z labiryntu
+Wskazowka: W pionie poruszamy sie prawa strona dostepnych przejsc. Zaczynamy i konczymy z prawej strony X i O
+
+
+
+			*O********************                           
+			*         *          *
+			****** ****** ********
+			*                    *
+			***************** ****
+			*       *            * 
+			**** ******* *********
+			*                    X
+			**********************
