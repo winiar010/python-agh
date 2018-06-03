@@ -14,7 +14,7 @@ def start():
         # print("Linia %d: %s" %(i,wiersz))
         print(wiersz)
         if i < 7:
-            time.sleep(0.3)
+            time.sleep(0.5)
 def getName():
     #odczytywanie nazwy uczestnika
 
@@ -61,7 +61,7 @@ def getLine(fileName,lineNo):
     return linecache.getline(fileName,lineNo)
 
 
-#start()
-#getName()
-#welcomeMsg()
+start()
+getName()
+welcomeMsg()
 dispEx1()
