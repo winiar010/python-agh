@@ -1,0 +1,17 @@
+$b
+zagadka logiczna - szybkie liczenie w pamiêci
+OPIS: 
+
+Gdy pasa¿er przejecha³ po³owê ca³ej swej drogi, po³o¿y³ siê spaæ i spa³ dopóty, dopóki nie pozosta³a mu po³owa tej drogi, któr¹ przespa³.
+
+Jak¹ czêœæ ca³ej drogi przespa³?	
+						  ---------------------------.
+a) 1/4 						 /""""/""""/|""|'|""||""|   ' \.	Miejsce na obliczenia: 
+b) 1/3 						/    /    / |__| |__||__|      |
+c) 2/3					       /----------=====================|
+					       | \  /V\  /    _.               |
+                                               |()\ \W/ /()   _            _   |
+                                               |   \   /     / \          / \  |
+                                               =C========C==_| ) |--------| ) _/
+                                                \_\_/      \_\_/  \_\_/ \_\_/
+

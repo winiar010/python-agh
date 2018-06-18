@@ -1,0 +1,12 @@
+
+//Gra polega na rozwi¹zywaniu æwiczeñ, liczy siê czas w jakim u¿ytkownik rozwi¹zuje zadania. Najwiêksz¹ zalet¹ gry jest jej prostota i mo¿liwoœæ dok³adania kolejnych poziomów bez zmiany kodu Ÿród³owego. Wiêkszoœæ parametrów gry mo¿na zmieniaæ bez interakcji w kod Ÿród³owy. 
+
+Program bazuje na 3ech rodzajach plików txt.
+
+	1. Title, wprowadza dane s³u¿¹ce do interakcji z u¿ytkownikiem.
+	2. /properties/results zawiera zapis postêpu gry dla danego u¿ytkownika, który gra³ ju¿ w grê
+	3. (Pliki ex...) zawieraj¹ definicje poszczególnych zagadek
+
+Definicja zadania znajduje siê w plikach ex.. rozwi¹zanie nie jest wyœwietlane u¿ytkownikowi. 
+Gra zaczyna siê od rozpoznania gracza lub utworzenie postaci. 
+Wszystkie funkcje mieszcz¹ siê na jednym ekranie, u³atwia to testowanie. Nie u¿y³em klas, przy ponownym pisaniu pewnie bym je wykorzysta³. D¹¿y³em g³ównie do prostoty programu. Sam kod i logikê programu ³atwo jest zmieniæ poprzez zmianê poszczególnych funckji. Funkcje mog¹ byæ reu¿ywalne, zasada dzia³ania zbli¿ona do obiektowoœci. Stara³em siê zrobiæ tak, aby gra mog³a byæ rozwijana bez umiejêtnoœci programowania. Wystarczy drobna wiedza jak tworzyæ pliki txt.

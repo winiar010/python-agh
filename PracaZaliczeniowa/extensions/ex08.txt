@@ -1,0 +1,11 @@
+%Zagadka logiczna - Rodzina
+$Basia
+
+
+
+
+
+
+
+OPIS:
+Ojciec Basi ma piec corek o imionach: Ala, Bela, Cela, Dela, ... Jak ma na imie jego piata corka?

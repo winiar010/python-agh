@@ -1,0 +1,12 @@
+%Ostatnie zadanie
+$ok
+
+
+
+
+
+
+
+OPIS:
+Gratuluje! Wlasnie przeszedles wszystkie poziomy gry MIND. Mam nadzieje, ze gra Ci sie spodobala. Wpisz 'ok', 
+aby zakonczy wielki trening pamieci. 

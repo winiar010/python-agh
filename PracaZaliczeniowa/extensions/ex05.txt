@@ -1,0 +1,20 @@
+%Zagadka na liczenie
+$b
+zagadka logiczna - szybkie liczenie w pamieci
+OPIS: 
+
+Gdy pasazer przejechal polowe calej swej drogi, polozyl sie spac i spal dopoty,
+dopoki nie pozostala mu polowa tej drogi, ktora przespal.
+
+Jaka czesc calej drogi przespal?	
+
+						  ---------------------------.
+a) 1/4 						 /""""/""""/|""|'|""||""|   ' \.	Miejsce na obliczenia: 
+b) 1/3 						/    /    / |__| |__||__|      |
+c) 2/3					       /----------=====================|
+					       | \  /V\  /    _.               |
+                                               |()\ \W/ /()   _            _   |
+                                               |   \   /     / \          / \  |
+                                               =C========C==_| ) |--------| ) _/
+                                                \_\_/      \_\_/  \_\_/ \_\_/
+

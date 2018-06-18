@@ -1,0 +1,57 @@
+
+# PROCEDURY TESTOWE (SANDBOX)
+
+def test():
+    userLst = users()
+    userLst.getFromFile()
+
+def test2():
+    getUserList()
+    print(results[1])
+    results[1] = 99
+    saveUserList()
+
+def test3():
+    currTime = getCurrentTime()
+    time.sleep(5)
+    #print(getElapsedTime(currTime))
+
+def test4():
+    start = datetime.datetime.now()
+    time.sleep(2)
+    duration = datetime.datetime.now() - start
+    print(duration)
+    print(int(datetime.timedelta.total_seconds(duration)))
+
+def test5():
+    #print(getUserGames('Lesio'))
+    #dispGameList('Lesio')
+    getUserList()
+    print(results)
+    print(resultsGame)
+
+    saveToResult("Lesio", 4, 40)
+    print(results)
+    print(resultsGame)
+
+    saveUserList()
+
+def test6():
+    dispGameList("DDD")
+
+
+
+
+
+
+    # korygowanie ilosci punktow poprzez kontrole jakosci odpowiedzi
+    userAnswer = userAnswer.replace(" ","")         # z odpowiedzi gracza usuwa spacje
+    if userAnswer.replace(" ","") == '':            # gracz nie udzielil zadnej odpowiedzi  >> wynik 0
+        retVal = 0
+
+    if len(gameResult) > len(userAnswer):           # odpowiedz gracza jest krotsza niz odpowiedz prawidlowa
+        for i in range(len(userAnswer)+1 ,len(gameResult), 1):
+            userAnswer = userAnswer + "."           # do odpowiedzi gracza dodajemy spacje, aby jej dlugosc byla zfodna z odp prawidlowa
+
+
+

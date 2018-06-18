@@ -1,0 +1,15 @@
+%Zagadka logiczna - Wloczega
+$6
+
+
+
+
+
+
+
+
+OPIS:
+Wloczega chodzi po parku i stwierdza, ze nie posiada papierosow. Poniewaz jest biedny, nie ma tez pieniedzy. 
+Od czego jest zatem glowa? Zaczyna zbierac niedopalki. Bibulke ma w kieszeni, a z doswiadczenia wie, 
+ze z siedmiu niedopalkow mozna zrobic jednego papierosa. Po pewnym czasie zebral 49 niedopalkow. 
+Wloczega ma bardzo regularne przyzwyczajenia i pali jednego papierosa co 15 minut. Na ile godzin starczy mu uzbierany zapas?

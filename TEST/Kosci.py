@@ -4,7 +4,7 @@ import time
 import sys
 import linecache
 
-def start():
+'''def start():
     fileName = "D:/miki/python/PracaZaliczeniowa/koscitxt/start.txt"
     ileLinii = 10
     for i in range(1, ileLinii, 1):
@@ -14,7 +14,7 @@ def start():
             time.sleep(0.5)
 #odczytaj konkretny wiersz z pliku
 def getLine(fileName,lineNo):
-    return linecache.getline(fileName,lineNo)
+    return linecache.getline(fileName,lineNo)'''
 def napis():
     text = "Zaczynamy naszą małą mini grę...\n"
     for c in text:
@@ -33,27 +33,29 @@ jest to pierwsza odsłona tej gry...\n"""
     for i in range (37):
         two_dig = i - int(i / 100) * 100
         last_dig = i - int(i / 10) * 10
-        if i in range(1, 9) and (11, 19) and (21, 29) and (31, 37):
+        if i in range(1, 4) and (22, 24) and (32, 34):
             print("punkty")
         else:
             print("punktów")'''
 def game():
     again = 'T' or 't'
-    przywitanie()
-    napis()
-    while again == 'T' or 't':
-        kosci = set()
+    #przywitanie()
+    #napis()
+    while again == 'T' or 't': #lower.
+        kosci = []
         pkt = 0
         while len(kosci) < 5:
             liczba = random.randint(1, 6)
             print("Wyrzucono: ", liczba)
-            kosci.add(liczba)
-            pkt = pkt + liczba
+            kosci.append(liczba)
+            pkt += liczba
         print("Wyrzuciłeś: ", kosci)
-        if pkt % 10 == 0:
-            print("To jest dokładnie", pkt, "punktów")
+        if pkt in range (1):
+            print("To jest dokładnie ", pkt, "punkt")
+        elif pkt in range (1, 4) and (22, 24) and (32, 34):
+            print("To są dokładnie ", pkt, "punkkty")
         else:
-            print("To są dokładnie", pkt, "punkty")
+            print("To jest dokładnie ", pkt, "punktów")
 
         again = input("\nGramy jeszcze raz? (T/N)")
 
@@ -83,22 +85,5 @@ def menu():
     else:
         print("Wybierz opcję 1-5!")
 
-start()
+#start()
 menu()
-
-'''menu = {}
-    print(menu)
-    menu['1'] = "Zacznij nową grę"
-    menu['2'] = "Wczytaj grę"
-    menu['3'] = "Pokaż najlepszy wynik"
-    menu['4'] = "Pomoc"
-    menu['5'] = "Wyjście"
-
-    print(menu)
-while True:
-    #options = menu.keys()
-    #options.sort()
-    for entry in options:
-    print (entry, menu[entry])
-
-    selection = input("Wybierz:")'''

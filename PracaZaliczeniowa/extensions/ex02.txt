@@ -1,0 +1,22 @@
+%Zagadka stos
+$4
+Zagadka na spostrzegawczosc
+
+
+
+
+OPIS:
+Policz igly w stogu siana. Ile ich widzisz?
+
+							siano 
+						siano igla siano siano 
+					  siano siano siano siano siano siano 
+			            siano siano siano siano siano igla siano siano 
+			      siano siano siano siano siano siano siano siano siano siano 
+		           siano siano siano siano siano siano siano siano siano siano siano 
+	              siano siano siano igla siano siano siano siano siano siano siano siano siano 
+		   siano siano siano siano siano siano siano siano siano siano siano igla siano siano 
+	        siano siano siano siano siano siano siano siano siano siano siano siano siano siano siano 
+	     siano siano siano siano siano siano siano siano siano siano siano siano siano siano siano siano 
+	   	
+	
